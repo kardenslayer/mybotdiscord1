@@ -77,7 +77,7 @@ module.exports = {
     bassboost20: "bass=g=20,dynaudnorm=f=200",
   },
   links: {
-    DiscordServer: `https://discord.gg/aMC2e8zgQb`
+    DiscordServer: `https://discord.gg/Sg6xK49e`
   },
   options: {
     embedFooter: true,

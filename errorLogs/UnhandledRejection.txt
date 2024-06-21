@@ -2367,3 +2367,27 @@ Tip: Expected an MongoDB URI. Received undefined
 [object Promise]
 20/6/2024, 6:32:51 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+SimplyError: "NOT_SPECIFIED | Provide an valid mongodb uri string."
+Tip: Expected an MongoDB URI. Received undefined
+
+[object Promise]
+20/6/2024, 8:20:28 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+SimplyError: "NOT_SPECIFIED | Provide an valid mongodb uri string."
+Tip: Expected an MongoDB URI. Received undefined
+
+[object Promise]
+20/6/2024, 10:40:29 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Unhandled Rejection/Catch
+SimplyError: "NOT_SPECIFIED | Provide an valid mongodb uri string."
+Tip: Expected an MongoDB URI. Received undefined
+
+[object Promise]
+21/6/2024, 10:36:38 pm
+------------------------------------------------------------------------

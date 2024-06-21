@@ -1909,3 +1909,59 @@ resolve
 undefined
 20/6/2024, 6:32:51 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 6:32:51 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 6:32:51 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 6:32:51 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 8:20:28 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 8:20:28 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 10:40:29 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+20/6/2024, 10:40:29 pm
+------------------------------------------------------------------------
+
+[Error_Handling] :: Multiple Resolves
+resolve
+[object Promise]
+undefined
+21/6/2024, 10:36:38 pm
+------------------------------------------------------------------------

@@ -1193,3 +1193,8 @@ DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
 DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
 28/5/2024, 8:52:47 pm
 ------------------------------------------------------------------------
+
+[Error_Handling] :: WARNING
+DeprecationWarning: Guild#me is deprecated. Use Guild#members#me instead.
+20/6/2024, 6:32:51 pm
+------------------------------------------------------------------------
